@@ -12,7 +12,7 @@
 			<td>Welcome ${firstname}</td>
 		</tr>
 		<tr>
-			<td><a href="home.jsp">Home</a></td>
+			<td><a href="home.jsp">HomePage</a></td>
 		</tr>
 	</table>
 </body>
